@@ -1,0 +1,54 @@
+[25-Jul-2019 16:56:45 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/skodr/public_html/test/confirm.php on line 14
+[25-Jul-2019 16:57:09 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/skodr/public_html/test/confirm.php on line 14
+[25-Jul-2019 16:58:01 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/skodr/public_html/test/confirm.php on line 14
+[25-Jul-2019 16:58:12 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/skodr/public_html/test/confirm.php on line 14
+[25-Jul-2019 16:59:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/skodr/public_html/test/confirm.php on line 11
+[25-Jul-2019 17:01:26 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/skodr/public_html/test/confirm.php on line 11
+[25-Jul-2019 17:21:02 America/New_York] PHP Notice:  Undefined index: password in /home/skodr/public_html/test/login.php on line 3
+[25-Jul-2019 17:21:02 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/skodr/public_html/test/login.php on line 7
+[25-Jul-2019 17:56:47 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/skodr/public_html/test/confirm.php on line 11
+[25-Jul-2019 17:56:52 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/skodr/public_html/test/confirm.php on line 11
+[25-Jul-2019 17:56:53 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/skodr/public_html/test/confirm.php on line 11
+[25-Jul-2019 18:09:22 America/New_York] PHP Notice:  Undefined index: password in /home/skodr/public_html/test/login.php on line 3
+[25-Jul-2019 18:09:22 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/skodr/public_html/test/login.php on line 7
+[25-Jul-2019 18:09:28 America/New_York] PHP Notice:  Undefined index: password in /home/skodr/public_html/test/login.php on line 3
+[25-Jul-2019 18:09:28 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/skodr/public_html/test/login.php on line 7
+[25-Jul-2019 18:09:35 America/New_York] PHP Notice:  Undefined index: password in /home/skodr/public_html/test/login.php on line 3
+[25-Jul-2019 18:09:35 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/skodr/public_html/test/login.php on line 7
+[25-Jul-2019 18:16:56 America/New_York] PHP Notice:  Undefined index: password in /home/skodr/public_html/test/login.php on line 3
+[25-Jul-2019 18:16:56 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/skodr/public_html/test/login.php on line 7
+[25-Jul-2019 18:19:19 America/New_York] PHP Notice:  Undefined index: password in /home/skodr/public_html/test/login.php on line 3
+[25-Jul-2019 18:19:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/skodr/public_html/test/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/skodr/public_html/test/login.php on line 6
+[25-Jul-2019 18:19:25 America/New_York] PHP Notice:  Undefined index: password in /home/skodr/public_html/test/login.php on line 3
+[25-Jul-2019 18:19:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/skodr/public_html/test/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/skodr/public_html/test/login.php on line 6
+[25-Jul-2019 18:33:03 America/New_York] PHP Notice:  Undefined index: password in /home/skodr/public_html/test/login.php on line 3
+[25-Jul-2019 18:33:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/skodr/public_html/test/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/skodr/public_html/test/login.php on line 6
+[25-Jul-2019 18:33:11 America/New_York] PHP Notice:  Undefined index: password in /home/skodr/public_html/test/login.php on line 3
+[25-Jul-2019 18:33:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/skodr/public_html/test/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/skodr/public_html/test/login.php on line 6
+[25-Jul-2019 18:34:24 America/New_York] PHP Notice:  Undefined index: password in /home/skodr/public_html/test/login.php on line 3
+[25-Jul-2019 18:34:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/skodr/public_html/test/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/skodr/public_html/test/login.php on line 6
+[25-Jul-2019 18:34:44 America/New_York] PHP Notice:  Undefined index: password in /home/skodr/public_html/test/login.php on line 3
+[25-Jul-2019 18:34:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/skodr/public_html/test/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/skodr/public_html/test/login.php on line 6
+[25-Jul-2019 18:37:21 America/New_York] PHP Notice:  Undefined index: password in /home/skodr/public_html/test/login.php on line 3
+[25-Jul-2019 18:37:21 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/skodr/public_html/test/login.php on line 6
+[25-Jul-2019 18:38:35 America/New_York] PHP Notice:  Undefined index: password in /home/skodr/public_html/test/login.php on line 3
+[25-Jul-2019 18:38:35 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/skodr/public_html/test/login.php on line 8
+[25-Jul-2019 18:39:29 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/skodr/public_html/test/login.php on line 7
